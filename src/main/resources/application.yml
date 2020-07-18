@@ -1,0 +1,21 @@
+#config:
+#  userinfo:
+#    name: ning
+#    age: 18
+#    mood: nice
+
+#server:
+#  port: 8082
+#spring:
+#  profiles:
+#    active: dev
+#---
+#server:
+#  port: 8083
+#spring:
+#  profiles: dev
+#---
+#server:
+#  port: 8084
+#spring:
+#  profiles: pre
